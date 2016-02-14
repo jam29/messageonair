@@ -1,0 +1,19 @@
+.control1         { display:none }
+.control6         { width:100px;position: absolute; top:24px;left:700px;height:32px; }
+.message          { display:inline-block;width:900px ; vertical-align:middle  } 
+.control4         { left:550px; display:none; }
+.control7         { display:block ; width:100px;position: absolute; top:24px;left:900px;height:50px;  }
+.control11 		  { top:60px;left:116px;height:18px;}
+
+#global_onair     { position:absolute;top:87px;left:10px;width:1012px;height:80px; overflow:auto; font-size:18px;  }
+#messageonair 	  { position:absolute;top:0px;left:100px;width:800px;height:80px;}
+.status_onair     { position:absolute;top:10px;left:0px;width:100px;height:60px;background-image: url('../img/onair.png'); background-repeat: no-repeat;}
+.status_offair     { position:absolute;top:10px;left:0px;width:100px;height:60px;background-image: url('../img/onair_of.png'); background-repeat: no-repeat;}
+.container        { position:absolute;top:172px;left:0px;width:1024px;height:562px; overflow:auto; }
+.voile            { opacity:0.5 }
+.non_lus { background-image: url('../img/diffuse.png'); background-repeat: no-repeat; }
+.lus     { background-image: url('../img/diffuse_no.png') ;  background-repeat: no-repeat; }
+.back {
+  top:-28px;
+  left:-230px;
+}

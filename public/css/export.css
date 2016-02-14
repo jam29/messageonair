@@ -1,0 +1,33 @@
+body {
+	color: white;
+	font-family:Arial;
+	font-size:16px;
+	font-weight: bold;
+	background-image:url(../img/adf1080.jpg);
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+	width: 800px;
+	border-collapse: collapse;
+}
+
+table, th, td {
+   border: 1px solid white;
+}
+
+thead {
+	font-size:20px;
+}
+
+td { padding: 5px; }
+
+a:link		{ color: #FAC900; }
+a:visited	{ color: #FAC900; }
+a:hover		{ color: #FAC900; }
+a:active	{ color: #FAC900; }

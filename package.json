@@ -1,0 +1,24 @@
+{
+  "name": "messageOnAir",
+  "version": "1.0.0",
+  "description": "remontées sms",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "0.8.x",
+    "express": "3.x",
+    "body-parser": "1.14.x",
+    "method-override": "2.3.x",
+    "lodash": "^2.4.1",
+    "mail-listener2": "~0.1.7",
+    "moment": "~2.5.1",
+    "mysql": "2.0.x",
+    "socket.io": "1.1.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "engine": "node >= 0.10.17"
+}

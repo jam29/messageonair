@@ -1,0 +1,24 @@
+body 			{ background-image:url(../img/nd_sms_fond_ss_legende.jpg); background-repeat: no-repeat;}
+.container 		{ padding-top:87px; color:#79419A; }
+.row 			{ padding:5px ; }
+.control1  		{ width:200px;position: absolute; top:30px; left:300px; height:35px; font-size:30px; color:#804FA5; }
+.control2  		{ width:100px;position: absolute; top:4px;  left:908px; height:20px; font-size:20px; }
+.control7  		{ width:100px;position: absolute; top:44px; left:800px; height:20px; font-size:20px; }
+.titre_session 	{ font-size:12px;}
+.ts_debut_sms 	{ font-size:10px;}
+.ts_fin_sms   	{ font-size:10px;}
+.back {
+  position:absolute;
+  top:0px;
+  left:62px;
+  cursor: pointer;
+  font-size:60px;
+  color: #7A469F;  
+}
+
+.container .row.ls:nth-child(even){
+  background-color: #FFFFFF;
+}
+.container .row.ls:nth-child(odd){
+  background-color: #e4dfec;
+}
